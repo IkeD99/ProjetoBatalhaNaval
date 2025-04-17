@@ -1,0 +1,15 @@
+C:\Users\ikeda\Desktop\ME\IADE\Programação e Algoritmo\ProjetoBatalhaNaval\BatalhaNaval\obj\Debug\net9.0\BatalhaNaval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikeda\Desktop\ME\IADE\Programação e Algoritmo\ProjetoBatalhaNaval\BatalhaNaval\obj\Debug\net9.0\BatalhaNaval.AssemblyInfoInputs.cache
+C:\Users\ikeda\Desktop\ME\IADE\Programação e Algoritmo\ProjetoBatalhaNaval\BatalhaNaval\obj\Debug\net9.0\BatalhaNaval.AssemblyInfo.cs
+C:\Users\ikeda\Desktop\ME\IADE\Programação e Algoritmo\ProjetoBatalhaNaval\BatalhaNaval\obj\Debug\net9.0\BatalhaNaval.csproj.CoreCompileInputs.cache
+C:\Users\ikeda\Desktop\ME\IADE\Programação e Algoritmo\ProjetoBatalhaNaval\BatalhaNaval\obj\Debug\net9.0\BatalhaNaval.sourcelink.json
+C:\Users\ikeda\Desktop\ME\IADE\Programação e Algoritmo\ProjetoBatalhaNaval\BatalhaNaval\bin\Debug\net9.0\BatalhaNaval.exe
+C:\Users\ikeda\Desktop\ME\IADE\Programação e Algoritmo\ProjetoBatalhaNaval\BatalhaNaval\bin\Debug\net9.0\BatalhaNaval.deps.json
+C:\Users\ikeda\Desktop\ME\IADE\Programação e Algoritmo\ProjetoBatalhaNaval\BatalhaNaval\bin\Debug\net9.0\BatalhaNaval.runtimeconfig.json
+C:\Users\ikeda\Desktop\ME\IADE\Programação e Algoritmo\ProjetoBatalhaNaval\BatalhaNaval\bin\Debug\net9.0\BatalhaNaval.dll
+C:\Users\ikeda\Desktop\ME\IADE\Programação e Algoritmo\ProjetoBatalhaNaval\BatalhaNaval\bin\Debug\net9.0\BatalhaNaval.pdb
+C:\Users\ikeda\Desktop\ME\IADE\Programação e Algoritmo\ProjetoBatalhaNaval\BatalhaNaval\obj\Debug\net9.0\BatalhaNaval.dll
+C:\Users\ikeda\Desktop\ME\IADE\Programação e Algoritmo\ProjetoBatalhaNaval\BatalhaNaval\obj\Debug\net9.0\refint\BatalhaNaval.dll
+C:\Users\ikeda\Desktop\ME\IADE\Programação e Algoritmo\ProjetoBatalhaNaval\BatalhaNaval\obj\Debug\net9.0\BatalhaNaval.pdb
+C:\Users\ikeda\Desktop\ME\IADE\Programação e Algoritmo\ProjetoBatalhaNaval\BatalhaNaval\obj\Debug\net9.0\BatalhaNaval.genruntimeconfig.cache
+C:\Users\ikeda\Desktop\ME\IADE\Programação e Algoritmo\ProjetoBatalhaNaval\BatalhaNaval\obj\Debug\net9.0\ref\BatalhaNaval.dll
